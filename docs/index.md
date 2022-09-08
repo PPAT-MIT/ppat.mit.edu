@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+This is the public course website for Principles and Practices of Assistive Technology at MIT.
+* About
+* Syllabus
