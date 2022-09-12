@@ -9,18 +9,27 @@ The units for PPAT are 2-4-6, which means:
 * 4 unit (4*14=56) of Lab, and 
 * 6 units (6*14=84) of Outside Preparation. 
 
-Below you will find the time breakdown for each week.
-
-Time management is a shared responsibility, please inform Dr. Keane if you start to deviate strongly from this expected breakdown.
-
-Note 
-* Holidays on Oct 11 and Nov 24 remove 2 lecture hours and 2 lab hours, to make up for those hours students must complete one of the optional activities listed in the assignments.
+### Managing Time
 * Only 28 of the 56 lab hours are covered by class meetings, the remaining 28 hours are to be used at the discretion of each student and can be used for requesting consultations with course staff or project work time.
+* Time management is a shared responsibility, please inform Dr. Keane if you start to deviate strongly from this expected breakdown.
+
+### Some Fun Opportunities 
+Holidays on Oct 11 and Nov 24 remove 2 lecture hours and 2 lab hours, students may choose to participate in one of the following activities.
+* Thu Sep 15 17:00-19:00 - Spatial Sound Lab Relaunch Party
+* Switch Hacking event at MGH-IHP
+* Visit to EasterSeals
+* Record a lecture
+* Pull down an open source project and make notes about the step-by-step process of trying to build it and any issues faced
+
+## Assignments
+
+* Reflection #1: First Day Disability Simulations (Exploratorium)
+* Audit #1: Wheelchair 
 
 ## Dates [lecture - class lab + external lab - external prep]
 
-* Week 01 [1-(1+1)-3] Sep 04
-  * Thu Sep 8 [1-1-3]
+* Week 01 - Sep 04
+  * Thu Sep 8 - AT Exploratorium and Course Intro
     * Due
       * Nothing
     * Class Activities
@@ -30,8 +39,8 @@ Note
       * 12:30-13:00 Debrief and Discussion
     * Homework
       * Reflection #1: Write/record a reflection about the disability sims and AT explorations
-* Week 02 [2-(2+2)-6] Sep 11 Disability Basics and WHO Alignment
-  * Tue Sep 13 [1-1-3] Disability and Accessibility Basics 
+* Week 02 - Sep 11 Disability Basics and WHO Alignment
+  * Tue Sep 13 - UROP Opportunities, Disability and Accessibility Basics, Audit Controversy; Doug Stawarski Guest Lecture
     * Due
       * 
     * Class Activities
@@ -41,7 +50,7 @@ Note
       * 12:30-13:00 Activity
     * Homework
       * Write/record a reflection about a personal experience relating to disability and accessibility
-  * Thu Sep 15 [1-1-3] Accessibility Audits and Wheelchair Activity
+  * Thu Sep 15 - Audit #1: Physical Access Audit with Wheelchair
     * Due
       * Reflection #1
     * Class Activities
@@ -52,8 +61,8 @@ Note
     * Homework
       * Reflection #2: Write/record a reflection about wheelchair activity 
       * Assignment #1: Submit accessibility barriers bug report
-* week 03 [2-(2+2)-6] Sep 18 Project Selection
-  * Tue Sep 20 [1-1-3] Project Preferences
+* week 03 - Sep 18 Project Selection
+  * Tue Sep 20 - Audit Results Discussion; Project Preferences
     * Due
       * Reflection #2
       * Assignment #1
@@ -64,7 +73,7 @@ Note
       * 12:30-13:00 Activity: Proposal evaluation and preference submission
     * Homework
       * Reflection #3: Write/record a brief statement about each life activity and any experiences you or anyone you has with it, interview someone you know who engages in the activity to learn about why they love it and how they would feel if they could not participate or perform the activity independently
-  * Thu Sep 22 [1-1-3] Team Formation
+  * Thu Sep 22 - Audit #2: Digital Audit with Special Guests Pramoda Karnati and Lindsay Yazzolino; Team Meet and Greet, As team do Screenreader Activity with Audit
     * Due
       * Reflection #3
     * Class Activities
@@ -75,8 +84,8 @@ Note
     * Homework
       * Prepare draft agenda for first meeting with the co-designer, use your interview questions from previous assignment to merge wording and prioritize time accordingly
       * Schedule first meeting with co-designer by sending draft agenda
-* Week 04 [2-(2+2)-6] Sep 25 Life Activity
-  * Tue Sep 27 [1-1-3] Metrics and Inventory
+* Week 04 - Sep 25 Life Activity
+  * Tue Sep 27 - Existing Solutions; Occupational Therapy Consultations;
     * Due
       * Agenda for first meeting with interview questions
       * Confirmed first meeting
@@ -88,7 +97,7 @@ Note
     * Homework
       * Existing solutions review section of report
       * Lightning talk #1 
-  * Thu Sep 29 [1-1-3] Paper Prototyping
+  * Thu Sep 29 - Metrics and Inventory; Interview Design;
     * Due
       * Slides for Lightning talk #1
     * Class Activities
@@ -98,8 +107,8 @@ Note
       * 12:30-13:00 Activity: Prepare a plan for what paper prototype an initial test would require and your proxy measurements of KPIs
     * Homework
       * Initial user test plan with paper prototype
-* Week 05 [2-(2+2)-6] Oct 03
-  * Tue Oct 4
+* Week 05 - Oct 03
+  * Tue Oct 4 Project Planning with Fixed Resources;  Plan It Out 
     * Due
       * Report about first co-designer meeting
     * Class Activities
@@ -111,7 +120,7 @@ Note
       * 17:00-20:00 (opt 1) MGH Switch Hacking
     * Homework
       * 
-  * Thu Oct 6 (Add Date is Fri Oct 7)
+  * Thu Oct 6  Paper Prototyping (Add Date is Fri Oct 7)
     * Due
       * 
     * Class Activities
@@ -121,9 +130,9 @@ Note
       * 12:30-13:00 
     * Homework
       * 
-* Week 06 [1-(1+2)-6] Oct 10
+* Week 06 - Oct 10 Experience Design
   * Tue Oct 11 (no class - Indigenous Peoples Day)
-  * Thu Oct 13
+  * Thu Oct 13 Tactile Aesthetics with Lindsay; Experience Design, John Odonohua Beauty Ch 19 about Beethoven; Bend your UX; 
     * Due
       * Report about second co-designer meeting and paper prototype test
     * Class Activities
@@ -133,8 +142,8 @@ Note
       * 12:30-13:00 
     * Homework
       * 
-* Week 07 [2-(2+2)-6] Oct 17 Report #1
-  * Tue Oct 18
+* Week 07 - Oct 17 Report #1
+  * Tue Oct 18 Documentation; Former Project Review; 
     * Due
       * 
     * Class Activities
@@ -144,7 +153,7 @@ Note
       * 12:30-13:00 
     * Homework
       * 
-  * Thu Oct 20 Report #1 Due
+  * Thu Oct 20 Report #1 Due; Do Something Fun
     * Due
       * 
     * Class Activities
@@ -154,8 +163,8 @@ Note
       * 12:30-13:00 
     * Homework
       * 
-* Week 08 [2-(2+2)-6] Oct 24 Mid-semester Presentations 
-  * Tue Oct 25
+* Week 08 - Oct 24 Mid-semester Presentations 
+  * Tue Oct 25 Occupational Therapy; Consultations;
     * Due
       * 
     * Class Activities
@@ -175,8 +184,8 @@ Note
       * 12:30-13:00 
     * Homework
       * 
-* Week 09 [2-(2+2)-6] Oct 31
-  * Tue Nov 1
+* Week 09 - Oct 31 Storytelling
+  * Tue Nov 1 Storytelling; Pawan Sinha;;
     * Due
       * 
     * Class Activities
@@ -186,7 +195,7 @@ Note
       * 12:30-13:00   
     * Homework
       * 
-  * Thu Nov 3
+  * Thu Nov 3 Video Editing; Storyboard;
     * Due
       * 
     * Class Activities
@@ -196,8 +205,8 @@ Note
       * 12:30-13:00 
     * Homework
       * 
-* Week 10 [2-(2+2)-6] Nov 7
-  * Tue Nov 8
+* Week 10 - Nov 7
+  * Tue Nov 8 Sports, Blind Guide Running, Categorization in Wheelchair Rugby on AMI-TV?; goalball if we dare?
     * Due
       * 
     * Class Activities
@@ -207,7 +216,7 @@ Note
       * 12:30-13:00 
     * Homework
       * 
-  * Thu Nov 10
+  * Thu Nov 10 
     * Due
       * 
     * Class Activities
@@ -217,8 +226,8 @@ Note
       * 12:30-13:00 
     * Homework
       * 
-* Week 11 [2-(2+2)-6] Nov 14
-  * Tue Nov 15
+* Week 11 - Nov 14
+  * Tue Nov 15 Technikum Wien, al'Faisal
     * Due
       * 
     * Class Activities
@@ -228,7 +237,7 @@ Note
       * 12:30-13:00 
     * Homework
       * 
-  * Thu Nov 17
+  * Thu Nov 17 Post-PPAT Opportunities; Discuss Plans;
     * Due
       * 
     * Class Activities
@@ -238,8 +247,8 @@ Note
       * 12:30-13:00 
     * Homework
       * 
-* Week 12 [1-(1+2)-6] Nov 21
-  * Tue Nov 22
+* Week 12 - Nov 21
+  * Tue Nov 22 Ecolocation; Vienna Prep;
     * Due
       * 
     * Class Activities
@@ -251,8 +260,8 @@ Note
       * 
     * (Drop Date is Wed Nov 23)
   * Thu Nov 24 (no class - Thanksgiving)
-* Week 13 [2-(2+2)-6] Nov 28
-  * Tue Nov 29
+* Week 13 - Nov 28
+  * Tue Nov 29 Echolocation; Vienna Prep;
     * Due
       * 
     * Class Activities
@@ -262,7 +271,7 @@ Note
       * 12:30-13:00 
     * Homework
       * 
-  * Thu Dec 1
+  * Thu Dec 1 Hosea High School and Beyond; 
     * Due
       * 
     * Class Activities
@@ -272,7 +281,7 @@ Note
       * 12:30-13:00 
     * Homework
       * 
-* Week 14 [2-(2+2)-6] Dec 5
+* Week 14 - Dec 5
   * Tue Dec 6
     * Due
       * 
@@ -293,7 +302,7 @@ Note
       * 12:30-13:00 
     * Homework
       * Submit final attendance form for guests 
-* Week 15 [1-(1+1)-3] Dec 12
+* Week 15 - Dec 12
   * Tue Dec 13
     * Due
       * Prototype, Final Video, Final Report
@@ -304,8 +313,3 @@ Note
       * 12:30-13:00 
     * Homework
       * Prototype delivery confirmation email from co-designer delivered to ppat@mit.edu is required to get credit for prototype delivery.
-* Choose one of the following to cover the holiday hours
-  * Switch Hacking event at MGH-IHP
-  * Visit to EasterSeals
-  * Record a lecture
-  * Pull down an open source project and make notes about the step-by-step process of trying to build it and any issues faced
