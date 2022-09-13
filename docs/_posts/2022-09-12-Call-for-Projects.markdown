@@ -4,9 +4,8 @@ title:  "MIT Internal Call for PPAT Projects"
 date:   2022-09-19 00:00:57 -0400
 categories: call-for-projects
 ---
-
 My friends known and unknown, my name is Dr. Kyle Keane and I am taking lead on MIT's residential class called Principles and Practices of Assistive Technology, some lovingly call it PPAT (p pat).
- 
+
 I have retinitis pigmentosa and am functionally blind in many ways although I have some very degraded central vision in good lighting conditions.
 
 In the class teams of MIT juniors and seniors learn to collaborate with individuals living with disabilities in the Cambridge/Boston area to create a novel piece of technology to help they're co-designer accomplish a single life activity more independently.
