@@ -107,7 +107,7 @@ How many hours of build time does that leave?
 * Week 09 - Oct 31 
   * Tue Nov 1 - 
     * Due - R6
-    * Plan - Storyboarding; Video Editing; Andrew Ringler or Pawan Sinha?;
+    * Plan - Storyboarding; Video Editing; Andrew Ringler;
     * Homework - S7: Storyboard
   * Thu Nov 3 - 
     * Due - S7
