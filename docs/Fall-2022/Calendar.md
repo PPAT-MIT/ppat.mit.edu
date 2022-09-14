@@ -93,7 +93,7 @@ How many hours of build time does that leave?
     * Homework - A5: S1+S2+S3+S4+S5
   * Thu Oct 20 - 
     * Due - A5: S1+S2+S3+S4+S5
-    * Plan - Systems Thoery and Systems Interventions like Al-anon; 12:30-1 Tomas from Berklee inclusive cumminity music
+    * Plan - Systems Thoery and Systems Interventions like Al-anon; 12-12:30 Cecropia with Julie; 12:30-1 Tomas from Berklee inclusive cumminity music
     * Homework - R5: What systems are at play in your project
 * Week 08 - Oct 24 
   * Tue Oct 25 - 
