@@ -93,7 +93,7 @@ How many hours of build time does that leave?
     * Homework - A5: S1+S2+S3+S4+S5
   * Thu Oct 20 - 
     * Due - A5: S1+S2+S3+S4+S5
-    * Plan - Systems Thoery and Systems Interventions like Al-anon
+    * Plan - Systems Thoery and Systems Interventions like Al-anon; 12:30-1 Tomas from Berklee inclusive cumminity music
     * Homework - R5: What systems are at play in your project
 * Week 08 - Oct 24 
   * Tue Oct 25 - 
@@ -107,7 +107,7 @@ How many hours of build time does that leave?
 * Week 09 - Oct 31 
   * Tue Nov 1 - 
     * Due - R6
-    * Plan - Storyboarding; Video Editing; Andrew Ringler;
+    * Plan - Storyboarding; Video Editing; Andrew Ringler ;
     * Homework - S7: Storyboard
   * Thu Nov 3 - 
     * Due - S7
@@ -116,11 +116,11 @@ How many hours of build time does that leave?
 * Week 10 - Nov 7
   * Tue Nov 8 - 
     * Due - L3; S6 (A6 with interview results)
-    * Plan - L3; Adriana Puffin; IP; 
+    * Plan - L3; Adriana Puffin; IP with Geoff; 
     * Homework - A8: Enumerate various plan options
   * Thu Nov 10 - 
     * Due - A8
-    * Plan - Mary Ziegler; Post-PPAT Opportunities; Discuss Plans;
+    * Plan - Mary Ziegler, Rich, and DAS; Post-PPAT Opportunities; Discuss Plans;
     * Homework - A9: Draft fourth meeting agenda and testing plan
 * Week 11 - Nov 14
   * Tue Nov 15 - 
@@ -154,7 +154,7 @@ How many hours of build time does that leave?
     * Homework - R9: Civic Hacking; A10: S6-10
   * Thu Dec 8 - 
     * Due - R9
-    * Plan -  Final Build Day
+    * Plan -  Final Build Day; music party;
     * Homework - P2: Final presentation; A: Submit final attendance form for guests 
 * Week 15 - Dec 12
   * Tue Dec 13 - Final Presentations
