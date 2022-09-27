@@ -23,18 +23,26 @@ The units for PPAT are 2-4-6, which means:
 * Nov 1-3 a11yConference in nyc
 * Nov 4-6 TransCultural Exchange
 
-## Assignments
+## Grading
 ### Assignment Types and Expectations
 Knowledge comes in small precious chunks of effort, not often ordered correctly... let me know what you find please.
-* P - Presentation: (2-3 hours) Slides or any communication medium that transfers information and emotion effectively
-* E - Enquiry: (1-2 hours) 
-* A - Assignment: (1-2 hours) Clean self-contained result of personal work
-* R - Personal Reflection: (2-10 minutes) 1-3 sentences without any particular rubric except general sense of thoughtfulness
-* L - Lightning Talk: (1 hour) 2 minute share-out about status of project
-* S - Report Section: (2-3 hours) Concise, succinct, non-redundant, ... technical report with just the bear necessities
+* P - [150 points] Presentation: (2-3 hours) Slides or any communication medium that transfers information and emotion effectively
+* E - [50 points] Enquiry: (1-2 hours) 
+* A - [25 points] Assignment: (1-2 hours) Clean self-contained result of personal work
+* R - [10 points] Personal Reflection: (2-10 minutes) 1-3 sentences without any particular rubric except general sense of thoughtfulness
+* L - [25 points] Lightning Talk: (1 hour) 2 minute share-out about status of project
+* S - [50 points] Report Section: (2-3 hours) Concise, succinct, non-redundant, ... technical report with just the bear necessities
 
-### Any fun phrases possible with these?
-2 P, 2 E, 10 A, 9 R, 4 L, 10 S
+### Full point breakdown (Draft)
+        | P   | E   | A     | R   | L   | S     |
+--------|-----|-----|-------|-----|-----|-------|
+Count   | 2   | 2   | 10    | 9   | 4   | 10    |
+Hours   | 4-6 | 2-4 | 10-20 | 1-2 | 4   | 20-30 |
+Points  | 300 | 100 | 250   | 90  | 100 | 500   |
+
+That is 1340 points for graded work. 
+In addition there will be 660 points for attendance and participation in class discussions and activities.
+
 How many hours of build time does that leave?
 
 ## Dates [lecture - class lab + external lab - external prep]
@@ -93,7 +101,7 @@ How many hours of build time does that leave?
     * Homework - A5: S1+S2+S3+S4+S5
   * Thu Oct 20 - 
     * Due - A5: S1+S2+S3+S4+S5
-    * Plan - Systems Thoery and Systems Interventions like Al-anon; 12-12:30 Cecropia with Julie; 12:30-1 Tomas from Berklee inclusive cumminity music
+    * Plan - Systems Thoery and Systems Interventions like Al-anon; 12-12:30 Chi Kim Berklee; 12:30-1 Tomas from Berklee inclusive cumminity music
     * Homework - R5: What systems are at play in your project
 * Week 08 - Oct 24 
   * Tue Oct 25 - 
@@ -116,20 +124,20 @@ How many hours of build time does that leave?
 * Week 10 - Nov 7
   * Tue Nov 8 - 
     * Due - L3; S6 (A6 with interview results)
-    * Plan - L3; Adriana Puffin; IP with Geoff; 
+    * Plan - L3; Adriana Puffin; Julie Cecropia Strong; IP with Geoff; 
     * Homework - A8: Enumerate various plan options
   * Thu Nov 10 - 
     * Due - A8
-    * Plan - Mary Ziegler, Rich, and DAS; Post-PPAT Opportunities; Discuss Plans;
+    * Plan - Mary, Rich, Katherine and DAS; Post-PPAT Opportunities; Discuss Plans;
     * Homework - A9: Draft fourth meeting agenda and testing plan
 * Week 11 - Nov 14
   * Tue Nov 15 - 
     * Due - A9
-    * Plan - al'Faisal and working internationally (Kyle use pray hand emojis); Ria TactinTablet and Beyond;
+    * Plan - Uma and JourneyFlows; al'Faisal and working internationally (Kyle use pray hand emojis); Ria TactinTablet and Beyond;
     * Homework - S8: Current draft of long-term plan with rationale for options in A8 and 
   * Thu Nov 17 - 
     * Due - S8
-    * Plan - Robot Escape Room; Mihir;
+    * Plan - Robot Escape Room with Jim; Mihir;
     * Homework - R8: What are the various perspectives in this project
 * Week 12 - Nov 21
   * Tue Nov 22 - (Drop Date is Wed Nov 23)
