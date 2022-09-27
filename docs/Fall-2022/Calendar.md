@@ -34,11 +34,11 @@ Knowledge comes in small precious chunks of effort, not often ordered correctly.
 * S - [50 points] Report Section: (2-3 hours) Concise, succinct, non-redundant, ... technical report with just the bear necessities
 
 ### Full point breakdown (Draft)
-        | P   | E   | A     | R   | L   | S     |
---------|-----|-----|-------|-----|-----|-------|
-Count   | 2   | 2   | 10    | 9   | 4   | 10    |
-Hours   | 4-6 | 2-4 | 10-20 | 1-2 | 4   | 20-30 |
-Points  | 300 | 100 | 250   | 90  | 100 | 500   |
+|         | P   | E   | A     | R   | L   | S     | 
+|---------|-----|-----|-------|-----|-----|-------| 
+| Count   | 2   | 2   | 10    | 9   | 4   | 10    | 
+| Hours   | 4-6 | 2-4 | 10-20 | 1-2 | 4   | 20-30 | 
+| Points  | 300 | 100 | 250   | 90  | 100 | 500   | 
 
 That is 1340 points for graded work. 
 In addition there will be 660 points for attendance and participation in class discussions and activities.
