@@ -152,7 +152,7 @@ How many hours of build time does that leave?
     * Plan - Kyle from Vienna (what did you do during your holiday?)
     * Homework - L4
   * Thu Dec 1 - 
-    * Due - L4; S10: Current version of prototype
+    * Due - L4; A10+S10: Current version of prototype
     * Plan - L4; Jennifer Peterson MA DDS; Marnie, Hosea High School and Beyond (volunteers for design reviews); 
     * Homework - E2: Places to plug into various initiatives we have heard about
 * Week 14 - Dec 5
