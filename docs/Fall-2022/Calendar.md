@@ -26,11 +26,11 @@ The units for PPAT are 2-4-6, which means:
 ## Grading
 ### Assignment Types and Expectations
 Knowledge comes in small precious chunks of effort, not often ordered correctly... let me know what you find please.
-* P - [150 points] Presentation: (2-3 hours) Slides or any communication medium that transfers information and emotion effectively
+* P - [150 points] Presentation: (2-3 hours) Slides or any communication medium that transfers information and emotion effectively [live participation required]
 * E - [50 points] Enquiry: (1-2 hours) 
 * A - [25 points] Assignment: (1-2 hours) Clean self-contained result of personal work
 * R - [10 points] Personal Reflection: (2-10 minutes) 1-3 sentences without any particular rubric except general sense of thoughtfulness
-* L - [25 points] Lightning Talk: (1 hour) 2 minute share-out about status of project
+* L - [25 points] Lightning Talk: (1 hour) 2 minute share-out about status of project [live participation required]
 * S - [50 points] Report Section: (2-3 hours) Concise, succinct, non-redundant, ... technical report with just the bear necessities
 
 ### Full point breakdown (Draft)
@@ -50,16 +50,16 @@ How many hours of build time does that leave?
   * Thu Sep 8 
     * Due - Nothing
     * Plan - Class and Staff Intro; Disability Sims; 
-    * Homework - R1: Disability Sims
+    * Homework - R1: Disability Sims (describe your experience and address the difference between your emotions and others' experiences)
 * Week 02 - Sep 11 
   * Tue Sep 13 - 
     * Due - R1
     * Plan - Disability and Accessibility Basics, Audit Controversy; Doug Stawarski Guest Lecture
-    * Homework - R2: Disability Basics and Audit Theory
+    * Homework - R2: Disability Basics and Audit Theory (pick an imapirment from WHO ICF and describe a situation where it becaomes situationally impaired for you)
   * Thu Sep 15 - 
     * Due - R2
     * Plan - Physical Access Audit with Wheelchair; 12:30 Debrief;
-    * Homework - A1: Wheelchair Access
+    * Homework - A1: Wheelchair Access Audit Report (report 3 issues with specificity for location, activity, 3 participatory goals that could be impacted)
 * week 03 - Sep 18 Project Selection
   * Tue Sep 20 - 
     * Due - A1
@@ -68,7 +68,7 @@ How many hours of build time does that leave?
   * Thu Sep 22 - 
     * Due - E1
     * Plan - a11y Unboxing Audit with Special Guests; Team Carl Update; Team Meet and Greet;
-    * Homework - A2: Schedule first meeting with Draft Agendag
+    * Homework - A2: Schedule first meeting with Draft Agendag (submit team member names and meeting time with location)
 * Week 04 - Sep 25 Life Activity
   * Tue Sep 27 - 
     * Due - A2
@@ -77,14 +77,14 @@ How many hours of build time does that leave?
   * Thu Sep 29 - 
     * Due - L1
     * Plan - Metrics, Measurement Methodology, and Team Inventory (might move to Oct 4); L1; Paul Parravano;
-    * Homework - A3: Draft metrics with measurement methodology
+    * Homework - A3: Draft metrics with measurement methodology; E lessons learned from 
 * Week 05 - Oct 03
   * Tue Oct 4 - 
-    * Due - S2 (A2 with interview results, A2 metrics, and conclusions)
+    * Due - S1
     * Plan - Project Planning with Limited Resources (might switch to Sept 29);  Paper Prototyping
     * Homework - S3: Project Management Plan
   * Thu Oct 6 - (Add Date is Fri Oct 7)
-    * Due - S1
+    * Due - S2 (A2 with interview results, A3 metrics, and E1 Lessons Learned)
     * Plan - Make sketches and plan for visitors; Martin Visit, Alija Talk about headstands and Summer highlights;
     * Homework - L2; A4: Draft second meeting agenda and testing plan
 * Week 06 - Oct 10 Experience Design
@@ -119,12 +119,12 @@ How many hours of build time does that leave?
     * Homework - S7: Storyboard
   * Thu Nov 3 - 
     * Due - S7
-    * Plan - Livestream from A11yConference; Adaptive Sports and Paralympics; goalball if we dare?;
+    * Plan - Spatial Livestream to A11yConference; Adaptive Sports and Paralympics; goalball if we dare?;
     * Homework - L3; R7: What can make this a bit more fun, what even is fun?
 * Week 10 - Nov 7
   * Tue Nov 8 - 
     * Due - L3; S6 (A6 with interview results)
-    * Plan - L3; Adriana Puffin; Julie Cecropia Strong; IP with Geoff; 
+    * Plan - Adriana Puffin; Julie Cecropia Strong; IP with Geoff; 
     * Homework - A8: Enumerate various plan options
   * Thu Nov 10 - 
     * Due - A8
@@ -152,7 +152,7 @@ How many hours of build time does that leave?
     * Plan - Kyle from Vienna (what did you do during your holiday?)
     * Homework - L4
   * Thu Dec 1 - 
-    * Due - L4; A10+S10: Current version of prototype
+    * Due - L4; S10: Current version of prototype
     * Plan - L4; Jennifer Peterson MA DDS; Marnie, Hosea High School and Beyond (volunteers for design reviews); 
     * Homework - E2: Places to plug into various initiatives we have heard about
 * Week 14 - Dec 5
