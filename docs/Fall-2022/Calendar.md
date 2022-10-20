@@ -68,7 +68,7 @@ How many hours of build time does that leave?
   * Thu Sep 22 - 
     * Due - E1
     * Plan - a11y Unboxing Audit with Special Guests; Team Carl Update; Team Meet and Greet;
-    * Homework - A2: Schedule first meeting with Draft Agendag (submit team member names and meeting time with location)
+    * Suggested Homework - A2: Schedule first meeting with Draft Agendag (submit team member names and meeting time with location)
 * Week 04 - Sep 25 Life Activity
   * Tue Sep 27 - 
     * Due - A2
@@ -77,12 +77,12 @@ How many hours of build time does that leave?
   * Thu Sep 29 - 
     * Due - L1
     * Plan - Metrics, Measurement Methodology, and Team Inventory (might move to Oct 4); L1; Paul Parravano;
-    * Homework - A3: Draft metrics with measurement methodology; E lessons learned from 
+    * Suggested Homework  - A3: Draft metrics with measurement methodology; E lessons learned from 
 * Week 05 - Oct 03
   * Tue Oct 4 - 
     * Due - S1
     * Plan - Project Planning with Limited Resources (might switch to Sept 29);  Paper Prototyping
-    * Homework - S3: Project Management Plan
+    * Suggested Homework  - S3: Project Management Plan
   * Thu Oct 6 - (Add Date is Fri Oct 7)
     * Due - S2 (A2 with interview results, A3 metrics, and E1 Lessons Learned)
     * Plan - Make sketches and plan for visitors; Martin Visit, Alija Talk about headstands and Summer highlights;
@@ -93,38 +93,39 @@ How many hours of build time does that leave?
   * Thu Oct 13 - 
     * Due - L2; S3
     * Plan - L2; Tactile Aesthetics with Lindsay; Experience Design; Bend your UX; 
-    * Homework -  S5: Conclusions of S1+S2+S3+S4; R4: Where is beauty in your project
+    * Suggested Homework  -  S5: Conclusions of S1+S2+S3+S4; R4: Where is beauty in your project
 * Week 07 - Oct 17 
   * Tue Oct 18 - 
     * Due - R4; S4 (A4 with interview and testing results)
     * Plan - Documentation; Former Project Review; 
     * Homework - A5: S1+S2+S3+S4+S5
   * Thu Oct 20 - 
-    * Due - A5: S1+S2+S3+S4+S5
-    * Plan - Systems Thoery and Systems Interventions like Al-anon; 12-12:30 Chi Kim Berklee; 12:30-1 Tomas from Berklee inclusive cumminity music
+    * Due - 
+    * Plan -  12-12:30 Chi Kim Berklee; 12:30-1 Tomas from Berklee inclusive cumminity music
     * Homework - R5: What systems are at play in your project
 * Week 08 - Oct 24 
   * Tue Oct 25 - 
-    * Due - R5 
+    * Suggested Due - (Report 1) A5: S1+S2+S3+S4+S5
     * Plan - Review A5 Feedback; Presentation Practice;
-    * Homework - P1: Incorporate A5 feedback and prepare Mid-semester presentations
+    * Suggested Homework  - P1: Incorporate A5 feedback and prepare Mid-semester presentations
   * Thu Oct 27 - 
-    * Due - P1
-    * Plan - Mid-semester presentations (Hosea Guests for High School BWSI)
+    * Suggested Due - R5
+    * Plan - Hosea about BWSI;
     * Homework - R6: Class feedback; A6: Draft third meeting agenda and testing plan
 * Week 09 - Oct 31 
   * Tue Nov 1 - 
     * Due - R6
-    * Plan - Storyboarding; Video Editing; Andrew Ringler ;
+    * Plan - Andrew Ringler;
     * Homework - S7: Storyboard
   * Thu Nov 3 - 
-    * Due - S7
-    * Plan - Spatial Livestream to A11yConference; Adaptive Sports and Paralympics; goalball if we dare?;
+    * Suggested - S7
+    * Due - P1
+    * Plan - Mid-semester presentations with Florian and Andriana ; 
     * Homework - L3; R7: What can make this a bit more fun, what even is fun?
 * Week 10 - Nov 7
   * Tue Nov 8 - 
     * Due - L3; S6 (A6 with interview results)
-    * Plan - Adriana Puffin; Julie Cecropia Strong; IP with Geoff; 
+    * Plan - Julie Cecropia Strong; IP with Geoff; 
     * Homework - A8: Enumerate various plan options
   * Thu Nov 10 - 
     * Due - A8
@@ -162,10 +163,16 @@ How many hours of build time does that leave?
     * Homework - R9: Civic Hacking; A10: S6-10
   * Thu Dec 8 - 
     * Due - R9
-    * Plan -  Final Build Day; music party;
+    * Plan - Final Build Day; music party;
     * Homework - P2: Final presentation; A: Submit final attendance form for guests 
 * Week 15 - Dec 12
   * Tue Dec 13 - Final Presentations
     * Due - P2; Prototype, Final Video, Final Report
     * Plan - FINAL PRESENTATIONS!!!
     * Homework - Prototype delivery confirmation email from co-designer delivered to ppat@mit.edu is required to get credit for prototype delivery.
+
+topics that got cut
+* WHO ICF;
+* Systems Thoery and Systems Interventions like Al-anon;
+* Adaptive Sports and Paralympics; goalball if we dare?;
+* Storyboarding; Video Editing;
