@@ -106,11 +106,11 @@ How many hours of build time does that leave?
 * Week 08 - Oct 24 
   * Tue Oct 25 - 
     * Suggested Due - (Report 1) A5: S1+S2+S3+S4+S5
-    * Plan - Review A5 Feedback; Presentation Practice;
+    * Plan - Work Time
     * Suggested Homework  - P1: Incorporate A5 feedback and prepare Mid-semester presentations
   * Thu Oct 27 - 
     * Suggested Due - R5
-    * Plan - Hosea about BWSI;
+    * Plan - Work Time
     * Homework - R6: Class feedback; A6: Draft third meeting agenda and testing plan
 * Week 09 - Oct 31 
   * Tue Nov 1 - 
