@@ -150,7 +150,7 @@ How many hours of build time does that leave?
 * Week 13 - Nov 28
   * Tue Nov 29 - 
     * Due - 
-    * Plan - Hosea BWSI; Kyle from Vienna (what did you do during your holiday?)
+    * Plan - Uma JourneyFlows; Kyle from Vienna (what did you do during your holiday?)
     * Homework - L4
   * Thu Dec 1 - 
     * Due - L4; S10: Current version of prototype
@@ -159,7 +159,7 @@ How many hours of build time does that leave?
 * Week 14 - Dec 5
   * Tue Dec 6 - 
     * Due - E2; S10;
-    * Plan - Uma JourneyFlows; 
+    * Plan - Hosea BWSI; 
     * Homework - R9: Civic Hacking; A10: S6-10
   * Thu Dec 8 - 
     * Due - R9
