@@ -125,7 +125,7 @@ How many hours of build time does that leave?
 * Week 10 - Nov 7
   * Tue Nov 8 - 
     * Due - L3; S6 (A6 with interview results)
-    * Plan - Julie Cecropia Strong; IP with Geoff; 
+    * Plan - IP with Geoff; 
     * Homework - A8: Enumerate various plan options
   * Thu Nov 10 - 
     * Due - A8
@@ -134,11 +134,11 @@ How many hours of build time does that leave?
 * Week 11 - Nov 14
   * Tue Nov 15 - 
     * Due - A9
-    * Plan - Uma and JourneyFlows; al'Faisal and working internationally (Kyle use pray hand emojis); Ria TactinTablet and Beyond;
+    * Plan - Ria TactinTablet;
     * Homework - S8: Current draft of long-term plan with rationale for options in A8 and 
   * Thu Nov 17 - 
     * Due - S8
-    * Plan - Robot Escape Room with Jim; Mihir;
+    * Plan - Mihir;
     * Homework - R8: What are the various perspectives in this project
 * Week 12 - Nov 21
   * Tue Nov 22 - (Drop Date is Wed Nov 23)
@@ -150,20 +150,20 @@ How many hours of build time does that leave?
 * Week 13 - Nov 28
   * Tue Nov 29 - 
     * Due - 
-    * Plan - Kyle from Vienna (what did you do during your holiday?)
+    * Plan - Hosea BWSI; Kyle from Vienna (what did you do during your holiday?)
     * Homework - L4
   * Thu Dec 1 - 
     * Due - L4; S10: Current version of prototype
-    * Plan - L4; Jennifer Peterson MA DDS; Marnie, Hosea High School and Beyond (volunteers for design reviews); 
+    * Plan - L4; Jennifer Peterson MA DDS; 
     * Homework - E2: Places to plug into various initiatives we have heard about
 * Week 14 - Dec 5
   * Tue Dec 6 - 
     * Due - E2; S10;
-    * Plan - 11-11:30 Bonnie Prep; 11:30-12 Bonnie Swenor; 12-1 a11y data civic hacking or team work time
+    * Plan - Uma JourneyFlows; 
     * Homework - R9: Civic Hacking; A10: S6-10
   * Thu Dec 8 - 
     * Due - R9
-    * Plan - Final Build Day; music party;
+    * Plan - Project Time
     * Homework - P2: Final presentation; A: Submit final attendance form for guests 
 * Week 15 - Dec 12
   * Tue Dec 13 - Final Presentations
