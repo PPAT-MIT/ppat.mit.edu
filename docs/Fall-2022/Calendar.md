@@ -34,11 +34,11 @@ Knowledge comes in small precious chunks of effort, not often ordered correctly.
 * S - [50 points] Report Section: (2-3 hours) Concise, succinct, non-redundant, ... technical report with just the bear necessities
 
 ### Full point breakdown (Draft)
-|         | P   | E   | A     | R   | L   | S     | 
-|---------|-----|-----|-------|-----|-----|-------| 
-| Count   | 2   | 2   | 10    | 9   | 4   | 10    | 
-| Hours   | 4-6 | 2-4 | 10-20 | 1-2 | 4   | 20-30 | 
-| Points  | 300 | 100 | 250   | 90  | 100 | 500   | 
+|        | P   | E   | A     | R   | L   | S     |
+| ------ | --- | --- | ----- | --- | --- | ----- |
+| Count  | 2   | 2   | 10    | 9   | 4   | 10    |
+| Hours  | 4-6 | 2-4 | 10-20 | 1-2 | 4   | 20-30 |
+| Points | 300 | 100 | 250   | 90  | 100 | 500   |
 
 That is 1340 points for graded work. 
 In addition there will be 660 points for attendance and participation in class discussions and activities.
@@ -143,18 +143,18 @@ How many hours of build time does that leave?
 * Week 12 - Nov 21
   * Tue Nov 22 - (Drop Date is Wed Nov 23)
     * Due - R8; S9 (A9 with interview results)
-    * Plan - Kyle from Vienna: Juan Ruiz (echolocation), Mike Busboom and Wolfgang Zagler (AT innovations), Carina (aurport disability services), Erich Schmidt?
+    * Plan - Project Worktime
     * Homework - Project
   * Thu Nov 24 - (no class - Thanksgiving)
     * Holiday
 * Week 13 - Nov 28
   * Tue Nov 29 - 
     * Due - 
-    * Plan - Uma JourneyFlows; Kyle from Vienna (what did you do during your holiday?)
+    * Plan - Project Worktime
     * Homework - L4
   * Thu Dec 1 - 
     * Due - L4; S10: Current version of prototype
-    * Plan - L4; Jennifer Peterson MA DDS; 
+    * Plan - L4; Project Worktime
     * Homework - E2: Places to plug into various initiatives we have heard about
 * Week 14 - Dec 5
   * Tue Dec 6 - 
@@ -163,11 +163,11 @@ How many hours of build time does that leave?
     * Homework - R9: Civic Hacking; A10: S6-10
   * Thu Dec 8 - 
     * Due - R9
-    * Plan - Project Time
+    * Plan - Life after PPAT (what to do next) with Julie Greenberg
     * Homework - P2: Final presentation; A: Submit final attendance form for guests 
 * Week 15 - Dec 12
   * Tue Dec 13 - Final Presentations
-    * Due - P2; Prototype, Final Video, Final Report
+    * Due - P2; Prototype, Final Report
     * Plan - FINAL PRESENTATIONS!!!
     * Homework - Prototype delivery confirmation email from co-designer delivered to ppat@mit.edu is required to get credit for prototype delivery.
 
